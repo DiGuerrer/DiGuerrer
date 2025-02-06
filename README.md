@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Tech Recruiter GIF">
 </p>
 
-# 👋 ¡Hola, soy [Tu Nombre]! 🚀  
+# 👋 ¡Hola, soy Di! 🚀  
 
 🎯 **Recruiter IT | Talent Acquisition | Employer Branding**  
 📍 Basada en Chile | 🌎 Conectando talento con oportunidades globales  
