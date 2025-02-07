@@ -1,35 +1,36 @@
-# 👋 ¡Hola, soy Di! 🚀  
+# 👋 Hi, I'm Di! 🚀  
 
-🎯 **Recruiter IT | Talent Acquisition | Employer Branding**  
-🌎 Conectando talento con oportunidades globales  
-
----
-
-## 🚀 Sobre mí  
-🔹 Especialista en **sourcing, entrevistas por competencias y atracción de talento** en tecnología.  
-🔹 Apasionada por la **innovación en reclutamiento** y por crear experiencias de contratación inclusivas.  
-🔹 Participante en **ferias laborales, webinars y eventos de employer branding.**  
-
-💡 Mi objetivo: **Encontrar a los mejores talentos tecnológicos y conectarles con oportunidades increíbles.**  
+🎯 **IT Recruiter | Talent Acquisition | Employer Branding**  
+🌎 Connecting talent with global opportunities  
 
 ---
 
-## 🔍 ¿En qué puedo ayudarte?  
-✅ **Búsqueda de talento IT**: Encuentro los mejores desarrolladores, ingenieros y especialistas tech.  
-✅ **Optimización de CV y LinkedIn**: Consejos para destacar en procesos de selección.  
-✅ **Networking profesional**: Conectando talento con empresas innovadoras.  
+## 🚀 About Me  
+🔹 Specialist in **sourcing and IT talent attraction**.  
+🔹 Passionate about **recruitment innovation and employer branding**.  
+🔹 Active participant in **career fairs, webinars, employer branding and tech events**.  
+
+💡 My goal: **To connect top tech talent with amazing career opportunities.**  
 
 ---
 
-## 📫 ¡Conectemos!  
+## 🔍 How Can I Help You?  
+✅ **Tech Talent Sourcing**: Finding the best developers, engineers, and IT professionals.  
+✅ **CV and LinkedIn Optimization**: Tips to stand out in hiring processes.  
+✅ **Professional Networking**: Connecting talent with innovative companies.  
+
+---
+
+## 📫 Let's Connect!   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dianacguerrero/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dicarolinagm@gmail.com)  
 
 ---
 
+
+
+🚀 **Let's build the future of tech talent together!**
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" alt="Hiring GIF">
 </p>
-
-🚀 **¡Sigamos construyendo el futuro del talento tech juntos!**
-
